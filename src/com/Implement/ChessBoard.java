@@ -11,6 +11,7 @@ public class ChessBoard {
     private static boolean finish = false;
 
     public static void main(String[] args) {
+        // Starting Coordinates
         int row = 5;
         int col = 5;
 
